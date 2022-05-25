@@ -1,7 +1,6 @@
 import sys
 import numpy as np
 import ast
-from General import convert_to_percentage
 
 current_word = None
 current_count = 0
